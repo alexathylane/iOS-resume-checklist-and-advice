@@ -27,9 +27,9 @@
 - Many people like to put bullet points where they simply describe what they did. Sometimes that's necessary so that reviewers know what you actually worked on. But, don't make all your bullet points simple descriptions. Use the three demonstrators of value I described above: accomplishments, awards, leadership / communication opportunities.
 
   - The following bullet points are an example of what *not* to do. Notice how each bullet point just describes what you did but doesn't demonstrate value beyond you just showing up as a warm body.
-    - Went to school
-    - Did a job
-    - Attended a meeting
+    - Graduated with a BA
+    - Served customers at Joe's Bar & Grill
+    - Attended a meeting for iOS engineers
   - The following bullet points are a better example of what to do.
     - Graduated with a BA in Fine Arts with a 3.85 GPA. Organized and led the Student Painting Club.
     - Provided top notch customer service as a food service professional in a high stress environment. Won employee of the month twice in one year.
@@ -82,9 +82,9 @@
   - At least one online profile
     - Github, LinkedIn, Twitter
 - Putting your photo on an American résumé is a bit of a faux pas as it may implicate the company in potential (illegal) bias in hiring.
-- Some people put location but I don't think that's best.
+- Some people put their location but I don't think that's best.
   - We live in a time of mass tele-work
-  - Adding your location may potentially preclude your opportunities.
+  - Adding your location may potentially preclude any opportunities.
 
 # Formatting
 
@@ -92,4 +92,4 @@
   - Short bullet pointed sentences work well for this.
 - No more than two fonts.
 - Every bullet point should be the same design & size.
-- You're an iOS engineer so look to Apple for inspiration. Their products are usually simple, sleek, easy-to-use, high attention to detail, etc. Go for that. Look at there WWDC slides for inspo in how they use simple, clean formatting.
+- You're an iOS engineer so look to Apple for inspiration. Their products are usually simple, sleek, easy-to-use, high attention to detail, etc. Go for that. Look at their WWDC slides for inspo in how they use simple, clean formatting.
