@@ -27,13 +27,13 @@
 - Many people like to put bullet points where they simply describe what they did. Sometimes that's necessary so that reviewers know what you actually worked on. But, don't make all your bullet points simple descriptions. Use the three demonstrators of value I described above: accomplishments, awards, leadership / communication opportunities.
 
   - The following bullet points are an example of what *not* to do. Notice how each bullet point just describes what you did but doesn't demonstrate value beyond you just showing up as a warm body.
-    - Graduated with a BA
-    - Served customers at Joe's Bar & Grill
-    - Attended a meeting for iOS engineers
+    - "Graduated with a BA"
+    - "Served customers at Joe's Bar & Grill"
+    - "Attended a meeting for iOS engineers"
   - The following bullet points are a better example of what to do.
-    - Graduated with a BA in Fine Arts with a 3.85 GPA. Organized and led the Student Painting Club.
-    - Provided top notch customer service as a food service professional in a high stress environment. Won employee of the month twice in one year.
-    - Organized a meeting group that empowers aspiring iOS engineers to become their best selves.
+    - "Graduated with a BA in Fine Arts with a 3.85 GPA. Organized and led the Student Painting Club."
+    - "Provided top notch customer service as a food service professional in a high stress environment. Won employee of the month twice in one year."
+    - "Organized a meeting group that empowers aspiring iOS engineers to become their best selves."
 
 - Many people with less technical experience try to cast a wide net by listing many technologies they're loosely familiar with in hopes that they'll improve their chances of "getting a hit." I think this is a bad idea.
 
@@ -44,7 +44,8 @@
 
 - How many pages should your résumé be per *relevant* years of experience in your field?
 
-  - If you're reading this doc, almost certainly a single page.
+  - 1-10 years = 1 page
+  - 10+ years = 1-2 pages
 
 - List experience in reverse chronological order.
 
