@@ -64,6 +64,7 @@
 - More info...
 
   - https://www.themuse.com/advice/43-resume-tips-that-will-help-you-get-hired
+  - https://www.raywenderlich.com/2617-ios-developer-resume-examples
 
 # iOS Specific
 
