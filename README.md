@@ -85,6 +85,16 @@
 - Some people put their location but I don't think that's best.
   - We live in a time of mass tele-work
   - Adding your location may potentially preclude any opportunities.
+  
+  
+# Executive Summary / Personal Statement
+
+- In general, I don't think executive summaries or personal statements add much value to the résumé. Often, they just take up space that should instead be used for showcasing your accomplishments, award, and leadership.
+- There's two exceptions for when I think an executive summary might be useful...
+  - You're applying to an industry / role where they're the norm and expected.
+  - You're going thru a career change. In this case, the executive summary should be a quick explanation and context for the rest of your résumé.
+- Keep it no longer than 2-3 sentences _max_. It may take a few rounds of editing to get it explanatory & punchy enough in such a small amount of space.
+
 
 # Formatting
 
