@@ -94,6 +94,7 @@
 - There's two exceptions for when I think an executive summary might be useful...
   - You're applying to an industry / role where they're the norm and expected.
   - You're going thru a career change. In this case, the executive summary should be a quick explanation and context for the rest of your résumé.
+    - e.g. "Former HR consultant seeking career change after realizing the transformative power of technology and discovering my passion for hard technical problems. Excited to bring my adept people and leadership skills to the engineering field."
 - Keep it 2-3 sentences _max_. It may take a few rounds of editing to get it explanatory & punchy enough in such a small amount of space.
 
 
