@@ -41,6 +41,8 @@
   - Applying for your first iOS engineer job and don't have any experience to list? Start making your own experience.
     - Projects, projects, projects. Publish them & make the code available on Github.
     - Courses with a certificate of completion.
+    - Code bootcamps are expensive but there seems to be good ones out there. Do your research!
+    - Check what your local community college offers. CC's often offer inexpensive gems to the community.
 
 - How many pages should your résumé be per *relevant* years of experience in your field?
 
